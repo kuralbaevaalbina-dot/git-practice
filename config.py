@@ -1,0 +1,2 @@
+DATABASE_URL=sqlite:///app.db
+PORT=8000
